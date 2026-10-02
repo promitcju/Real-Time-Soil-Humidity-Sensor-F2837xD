@@ -1,4 +1,4 @@
-# Real-Time Soil Humidity Sensor using TMS320F2837xD
+# Real-Time Soil Humidity Estimator using TMS320F2837xD
 
 ## Project Overview
 
